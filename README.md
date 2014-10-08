@@ -2,14 +2,14 @@
 
 This project is an attempt to understand how the project meltdown and the ringbuffer work. So I can use them in future projects.
 
-This project sends fake contacts and consumes consume them. The idea is to send more contacts that the consumer can process to understand how the ring buffer behaves in that case.
+This project sends fake contacts and then a consumer consumes them. The idea is to send more contacts that the consumer can process to understand how the ring buffer behaves in that case.
 
 ## Installation
 
 
 ## Usage
 
-FIXME: This is not a real project so the best option is to use lein
+This is not a real project so the best option is to use lein
 
     $ lein run
 
