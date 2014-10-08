@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:félix%d López%d
+N:López%d;félix%d;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:%d@gmail.com
+TEL;TYPE=HOME:923 19%d
+ADR;TYPE=HOME:;una por aquí 1ñ\nSalamanca\,  37  37008\nEspaña;;;;;
+END:VCARD
