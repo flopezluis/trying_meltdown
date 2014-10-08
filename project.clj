@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.6.0"], [clojurewerkz/meltdown "1.0.0"], [org.clojure/core.async "0.1.346.0-17112a-alpha"]]
   :main ^:skip-aot trying-meltdown.core
   :target-path "target/%s"
+  :jvm-opts ["-Xmx2056M -Xms4056M"]
   :profiles {:uberjar {:aot :all}})
